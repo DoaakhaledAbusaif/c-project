@@ -1,2 +1,4 @@
 # c-project
-this is my first c++
+This is my first C++
+
+change
